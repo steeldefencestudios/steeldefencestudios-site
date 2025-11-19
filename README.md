@@ -3,7 +3,7 @@ The official static portfolio and landing page for **Steel Defence Studios**, a 
 
 ## 🚀 Live Site
 
-**[View the Live Website](https://steeldefencestudios.github.io/steeldefencestudios-site/)**
+**[View the Live Website](https://steeldefencestudios.github.io/website/)**
 
 ## 📬 Contact & Socials
 
@@ -14,5 +14,6 @@ The official static portfolio and landing page for **Steel Defence Studios**, a 
 * **Asset Store:** [Gumroad Profile](https://www.steeldefencestudios.org/)
 
 &copy; 2025 Steel Defence Studios. All rights reserved.
+
 
 
